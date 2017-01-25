@@ -1,6 +1,6 @@
 #Apress Source Code
 
-This repository accompanies [*Linux Sound Programming*](http://www.apress.com/9781484224953) by Newmarch, Jan (Apress, 2017).
+This repository accompanies [*Linux Sound Programming*](http://www.apress.com/9781484224953) by Jan Newmarch (Apress, 2017).
 
 ![Cover image](9781484224953.jpg)
 

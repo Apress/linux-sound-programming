@@ -1,6 +1,6 @@
 Freeware License, some rights reserved
 
-Copyright (c) 2017 Newmarch, Jan
+Copyright (c) 2017 Jan Newmarch
 
 Permission is hereby granted, free of charge, to anyone obtaining a copy 
 of this software and associated documentation files (the "Software"), 
